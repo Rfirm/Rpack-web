@@ -13,4 +13,4 @@ then start the localhost
 
 
 #License
-MIT[@jackhou07](http://github.com/jackhou07)
+MIT by Rfirm
