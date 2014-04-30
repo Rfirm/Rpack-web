@@ -6,10 +6,15 @@ First you have to install the required gem.
 
     bundle install
 
-then start the localhost
+Use compass to watch the `scss` file
 
-    rails s
+    compass watch
 
+Use `shotgun` to start the local server
+
+    shotgun
+
+and open the `http://127.0.0.1:9393/`
 
 
 #License
