@@ -6,9 +6,9 @@ First you have to install the required gem.
 
     bundle install
 
-Use compass to watch the `scss` file
+Use `sass` to watch the `scss` file
 
-    compass watch
+    sass --watch scss:public/stylesheet
 
 Use `shotgun` to start the local server
 
